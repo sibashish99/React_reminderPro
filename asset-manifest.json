@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React_reminderPro/static/css/main.0c7bb98d.chunk.css",
+    "main.js": "/React_reminderPro/static/js/main.29a68f57.chunk.js",
+    "main.js.map": "/React_reminderPro/static/js/main.29a68f57.chunk.js.map",
+    "runtime-main.js": "/React_reminderPro/static/js/runtime-main.cf75a3b8.js",
+    "runtime-main.js.map": "/React_reminderPro/static/js/runtime-main.cf75a3b8.js.map",
+    "static/js/2.61b54893.chunk.js": "/React_reminderPro/static/js/2.61b54893.chunk.js",
+    "static/js/2.61b54893.chunk.js.map": "/React_reminderPro/static/js/2.61b54893.chunk.js.map",
+    "index.html": "/React_reminderPro/index.html",
+    "precache-manifest.9a9938cd84ebbc17c6c931f8c3b8ee41.js": "/React_reminderPro/precache-manifest.9a9938cd84ebbc17c6c931f8c3b8ee41.js",
+    "service-worker.js": "/React_reminderPro/service-worker.js",
+    "static/css/main.0c7bb98d.chunk.css.map": "/React_reminderPro/static/css/main.0c7bb98d.chunk.css.map",
+    "static/js/2.61b54893.chunk.js.LICENSE.txt": "/React_reminderPro/static/js/2.61b54893.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf75a3b8.js",
+    "static/js/2.61b54893.chunk.js",
+    "static/css/main.0c7bb98d.chunk.css",
+    "static/js/main.29a68f57.chunk.js"
+  ]
+}
